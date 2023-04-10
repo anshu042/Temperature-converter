@@ -1,0 +1,33 @@
+.container {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 1905px;
+    height: 953px;
+    text-align: center;
+    background-color: rgb(159, 179, 209);
+    border-radius: 15px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 100px;
+    text-align: center;
+}
+h2 {
+    margin-top: 0;
+    font-size: 50px;
+    text-align: center;
+}
+form {
+    margin-top: 10px;
+    font-size: 25px;
+    box-sizing: 25px;
+    text-align: center;
+}
+
+label,
+input {
+    margin-top: 40px;
+    box-sizing: border-box;
+}
