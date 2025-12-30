@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" type="text/css" href="design.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="dark-theme">
+    <div class="container">
+        <h1>Temperature Converter</h1>
+        <p class="subtitle">Type in either field to convert</p>
+        <form id="converter-form">
+            <div class="input-group">
+                <label for="celsius">Celsius (°C)</label>
+                <input type="number" id="celsius" name="celsius" placeholder="e.g. 25" inputmode="decimal">
+            </div>
+            <div class="input-group">
+                <label for="fahrenheit">Fahrenheit (°F)</label>
+                <input type="number" id="fahrenheit" name="fahrenheit" placeholder="e.g. 77" inputmode="decimal">
+            </div>
+
+            <button type="button" class="btn-reset" onclick="resetForm()">Clear All</button>
+        </form>
+        <div class="footer">
+            <h4>© created by Anshu Kushwaha</h4>
+        </div>
+    </div>
+    <button id="theme-toggle" onclick="toggleTheme()">
+        <i class="fas fa-sun"></i> Light Mode
+    </button>
+    <script src="tempp.js"></script>
+</body>
+</html>
