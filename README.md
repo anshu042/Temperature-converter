@@ -30,3 +30,10 @@ temperature-converter/
 ├── index.html      # Main application structure
 ├── design.css      # Styles for layout, animations, and themes
 └── tempp.js        # JavaScript logic for conversion and events
+```
+
+## 🖥️ Preview
+<img width="1919" height="903" alt="temperature-converter-preview01" src="https://github.com/user-attachments/assets/a724d697-1812-4e4b-a1a5-852ce52437c7" />
+<img width="1919" height="909" alt="temperature-converter-preview02" src="https://github.com/user-attachments/assets/7e88c9ba-9723-4e22-b704-b57cd7a066dc" />
+
+
