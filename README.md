@@ -36,4 +36,14 @@ temperature-converter/
 <img width="1919" height="903" alt="temperature-converter-preview01" src="https://github.com/user-attachments/assets/a724d697-1812-4e4b-a1a5-852ce52437c7" />
 <img width="1919" height="909" alt="temperature-converter-preview02" src="https://github.com/user-attachments/assets/7e88c9ba-9723-4e22-b704-b57cd7a066dc" />
 
+<div align="center">
+  
+## 📫 Connect With Me
 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshu04232@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu042)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshhu04)
+
+**Anshu Kushwaha**
+
+</div>
